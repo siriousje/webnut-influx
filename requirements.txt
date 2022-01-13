@@ -1,0 +1,4 @@
+urllib3==1.22
+influxdb==5.3.0
+beautifulsoup4==4.10.0
+PyYAML==6.0

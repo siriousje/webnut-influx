@@ -1,0 +1,9 @@
+# this is a sample configuration, please copy to sample.yml and edit for your needs
+webnut:
+    url: http://webnut:6543/ups
+influx:
+    hostname: localhost
+    port: 8086
+    username: netmonitor
+    password: your_secret
+    database: netmonitor   
